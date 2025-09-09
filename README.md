@@ -42,7 +42,7 @@ This contains relevant `.ipynb` files along with my notes and experiments.
 
 - GitHub: [amol-davkhar](https://github.com/amol-davkhar)  
 - LinkedIn: [Amol Davkhar](https://www.linkedin.com/in/amol-davkhar-300230b2)  
-- Twitter/X: [Amol Davkhar] (https://x.com/MrDavkhar___)
+- Twitter/X: [Amol Davkhar](https://x.com/MrDavkhar___)
 
 > “Consistency over perfection - one model, one bug, one step at a time.” 🔁
 
